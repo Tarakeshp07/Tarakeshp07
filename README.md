@@ -76,25 +76,25 @@ I enjoy turning complex problems into simple, efficient solutions.
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
 </tr>
 
 <tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
 <td align="center"><img width="40" height="40" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/><br>Wireshark</td>
-<td align="center"><img src="https://img.icons8.com/color/48/network.png" width="40"/><br>Nmap</td>
 </tr>
 
 <tr>
+<td align="center"><img src="https://img.icons8.com/color/48/network.png" width="40"/><br>Nmap</td>
 <td align="center"><img width="40" height="40" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/><br>Metasploit</td>
 <td align="center"><img src="https://img.icons8.com/color/48/security-checked.png" width="40"/><br>Burp Suite</td>
 <td align="center"><img src="https://img.icons8.com/color/48/bug.png" width="40"/><br>OWASP ZAP</td>
 <td align="center"><img src="https://img.icons8.com/color/48/database.png" width="40"/><br>SQL Injection</td>
-<td align="center"><img src="https://img.icons8.com/color/48/code.png" width="40"/><br>XSS</td>
 </tr>
 
 <tr>
+<td align="center"><img src="https://img.icons8.com/color/48/code.png" width="40"/><br>XSS</td>
 <td align="center"><img src="https://img.icons8.com/color/48/networking-manager.png" width="40"/><br>Nessus</td>
 <td align="center"><img src="https://img.icons8.com/color/48/inspection.png" width="40"/><br>Nikto</td>
 <td align="center">
