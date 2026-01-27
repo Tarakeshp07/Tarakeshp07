@@ -40,7 +40,10 @@ I enjoy turning complex problems into simple, efficient solutions.
 <table align="center">
 <tr>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
-<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com" width="40"/>
+  <br>JavaScript
+</td><td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js</td>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/><br>Material UI</td>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br>Tailwind</td>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
