@@ -91,10 +91,10 @@ I enjoy turning complex problems into simple, efficient solutions.
 <td align="center"><img src="https://img.icons8.com/color/48/security-checked.png" width="40"/><br>Burp Suite</td>
 <td align="center"><img src="https://img.icons8.com/color/48/bug.png" width="40"/><br>OWASP ZAP</td>
 <td align="center"><img src="https://img.icons8.com/color/48/database.png" width="40"/><br>SQL Injection</td>
+<td align="center"><img src="https://img.icons8.com/color/48/code.png" width="40"/><br>XSS</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/48/code.png" width="40"/><br>XSS</td>
 <td align="center"><img src="https://img.icons8.com/color/48/networking-manager.png" width="40"/><br>Nessus</td>
 <td align="center"><img src="https://img.icons8.com/color/48/inspection.png" width="40"/><br>Nikto</td>
 <td align="center">
