@@ -41,8 +41,10 @@ I enjoy turning complex problems into simple, efficient solutions.
 <tr>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
 <td align="center">
-  <img src="https://raw.githubusercontent.com" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40"/>
   <br>JavaScript
+</td>
+
 </td><td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js</td>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/><br>Material UI</td>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br>Tailwind</td>
