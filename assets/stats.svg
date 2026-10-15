@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210" role="img">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .title { font-size: 20px; font-weight: 600; fill: #38BDAC; }
+    .label { font-size: 14px; font-weight: 600; fill: #c9d1d9; }
+    .value { font-size: 14px; font-weight: 700; fill: #ffffff; }
+    .small { font-size: 12px; fill: #c9d1d9; }
+    .muted { font-size: 12px; fill: #8b949e; }
+    .big   { font-size: 30px; font-weight: 700; fill: #ffffff; }
+    .fade  { opacity: 0; animation: fade 0.6s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="38" class="title">Tarakesh's GitHub Stats</text>
+  <g class="fade" style="animation-delay:0.10s"><circle cx="31" cy="70" r="4" fill="#38BDAC"/><text x="45" y="75" class="label">Commits (last year):</text><text x="455" y="75" class="value" text-anchor="end">137</text></g>
+  <g class="fade" style="animation-delay:0.22s"><circle cx="31" cy="96" r="4" fill="#38BDAC"/><text x="45" y="101" class="label">Pull requests (last year):</text><text x="455" y="101" class="value" text-anchor="end">6</text></g>
+  <g class="fade" style="animation-delay:0.34s"><circle cx="31" cy="122" r="4" fill="#38BDAC"/><text x="45" y="127" class="label">Code reviews (last year):</text><text x="455" y="127" class="value" text-anchor="end">0</text></g>
+  <g class="fade" style="animation-delay:0.46s"><circle cx="31" cy="148" r="4" fill="#38BDAC"/><text x="45" y="153" class="label">Repos contributed to (last year):</text><text x="455" y="153" class="value" text-anchor="end">14</text></g>
+  <g class="fade" style="animation-delay:0.58s"><circle cx="31" cy="174" r="4" fill="#38BDAC"/><text x="45" y="179" class="label">Contributions (last year):</text><text x="455" y="179" class="value" text-anchor="end">1,346</text></g>
+</svg>
