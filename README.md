@@ -186,15 +186,18 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="./assets/stats.svg" height="190" alt="GitHub stats" />
-  <img src="./assets/languages.svg" height="190" alt="Most used languages" />
+  <img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/languages.svg" width="49%" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="./assets/streak.svg" width="840" alt="Contribution streak" />
+  <img src="./assets/streak.svg" width="99%" alt="Contribution streak" />
 </p>
 
-<p align="center"><sub>Includes private and organisation work. Updated every 6 hours by a GitHub Action.</sub></p>
+<p align="center">
+  <sub>🔒 Most of my work lives in <b>private client and organisation repositories</b>, so the commit count, repos and languages above show only part of it.<br/>
+  The <b>contribution totals and streaks</b> include everything. Updated every 6 hours by a GitHub Action.</sub>
+</p>
 
 ---
 
