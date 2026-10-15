@@ -186,21 +186,15 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tarakeshp07&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=0d1117&title_color=38BDAC&icon_color=38BDAC&text_color=c9d1d9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarakeshp07&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDAC&text_color=c9d1d9" />
+  <img src="./assets/stats.svg" height="190" alt="GitHub stats" />
+  <img src="./assets/languages.svg" height="190" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tarakeshp07&hide_border=true&background=0d1117&ring=38BDAC&fire=38BDAC&currStreakLabel=38BDAC&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="./assets/streak.svg" width="840" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarakeshp07/Tarakeshp07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarakeshp07/Tarakeshp07/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tarakeshp07/Tarakeshp07/output/github-snake-dark.svg" />
-  </picture>
-</p>
+<p align="center"><sub>Includes private and organisation work. Updated every 6 hours by a GitHub Action.</sub></p>
 
 ---
 
