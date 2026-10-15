@@ -194,6 +194,14 @@
   <img src="https://streak-stats.demolab.com?user=Tarakeshp07&hide_border=true&background=0d1117&ring=38BDAC&fire=38BDAC&currStreakLabel=38BDAC&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarakeshp07/Tarakeshp07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarakeshp07/Tarakeshp07/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tarakeshp07/Tarakeshp07/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 ---
 
 <!-- ===================== FOOTER ===================== -->
