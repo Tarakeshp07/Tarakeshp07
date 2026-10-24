@@ -16,5 +16,5 @@
   <g class="fade" style="animation-delay:0.22s"><circle cx="31" cy="96" r="4" fill="#38BDAC"/><text x="45" y="101" class="label">Pull requests (last year):</text><text x="455" y="101" class="value" text-anchor="end">6</text></g>
   <g class="fade" style="animation-delay:0.34s"><circle cx="31" cy="122" r="4" fill="#38BDAC"/><text x="45" y="127" class="label">Code reviews (last year):</text><text x="455" y="127" class="value" text-anchor="end">0</text></g>
   <g class="fade" style="animation-delay:0.46s"><circle cx="31" cy="148" r="4" fill="#38BDAC"/><text x="45" y="153" class="label">Repos contributed to (last year):</text><text x="455" y="153" class="value" text-anchor="end">14</text></g>
-  <g class="fade" style="animation-delay:0.58s"><circle cx="31" cy="174" r="4" fill="#38BDAC"/><text x="45" y="179" class="label">Contributions (last year):</text><text x="455" y="179" class="value" text-anchor="end">1,340</text></g>
+  <g class="fade" style="animation-delay:0.58s"><circle cx="31" cy="174" r="4" fill="#38BDAC"/><text x="45" y="179" class="label">Contributions (last year):</text><text x="455" y="179" class="value" text-anchor="end">1,365</text></g>
 </svg>
