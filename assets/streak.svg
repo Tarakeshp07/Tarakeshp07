@@ -13,7 +13,7 @@
   <rect x="0.5" y="0.5" width="979" height="199" rx="10" fill="#0d1117" stroke="#30363d"/>
   <line x1="325" y1="35" x2="325" y2="175" stroke="#30363d"/>
   <line x1="655" y1="35" x2="655" y2="175" stroke="#30363d"/>
-  <g class="fade"><text x="160" y="95" class="big" text-anchor="middle">2,125</text><text x="160" y="128" class="label" text-anchor="middle">Total Contributions</text><text x="160" y="152" class="muted" text-anchor="middle">Mar 18, 2024 - Present</text></g>
-  <g class="fade" style="animation-delay:0.15s"><circle cx="490" cy="80" r="40" fill="none" stroke="#38BDAC" stroke-width="5"/><text x="490" y="91" class="big" text-anchor="middle">0</text><text x="490" y="145" class="label" text-anchor="middle" style="fill:#38BDAC">Current Streak</text><text x="490" y="168" class="muted" text-anchor="middle">No active streak</text></g>
+  <g class="fade"><text x="160" y="95" class="big" text-anchor="middle">2,135</text><text x="160" y="128" class="label" text-anchor="middle">Total Contributions</text><text x="160" y="152" class="muted" text-anchor="middle">Mar 18, 2024 - Present</text></g>
+  <g class="fade" style="animation-delay:0.15s"><circle cx="490" cy="80" r="40" fill="none" stroke="#38BDAC" stroke-width="5"/><text x="490" y="91" class="big" text-anchor="middle">4</text><text x="490" y="145" class="label" text-anchor="middle" style="fill:#38BDAC">Current Streak</text><text x="490" y="168" class="muted" text-anchor="middle">Oct 26 - Oct 29</text></g>
   <g class="fade" style="animation-delay:0.3s"><text x="820" y="95" class="big" text-anchor="middle">14</text><text x="820" y="128" class="label" text-anchor="middle">Longest Streak</text><text x="820" y="152" class="muted" text-anchor="middle">Jan 9 - Jan 22</text></g>
 </svg>
