@@ -14,17 +14,17 @@
   <text x="25" y="38" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="25" y="55" width="430.0" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="25.00" y="55" width="278.15" height="10" fill="#3178c6"/>
-    <rect x="302.65" y="55" width="94.22" height="10" fill="#f1e05a"/>
-    <rect x="396.37" y="55" width="27.53" height="10" fill="#00B4AB"/>
-    <rect x="423.40" y="55" width="21.41" height="10" fill="#3572A5"/>
-    <rect x="444.32" y="55" width="4.14" height="10" fill="#b07219"/>
-    <rect x="447.95" y="55" width="3.57" height="10" fill="#663399"/>
+    <rect x="25.00" y="55" width="277.82" height="10" fill="#3178c6"/>
+    <rect x="302.32" y="55" width="94.62" height="10" fill="#f1e05a"/>
+    <rect x="396.44" y="55" width="27.50" height="10" fill="#00B4AB"/>
+    <rect x="423.44" y="55" width="21.39" height="10" fill="#3572A5"/>
+    <rect x="444.33" y="55" width="4.13" height="10" fill="#b07219"/>
+    <rect x="447.96" y="55" width="3.57" height="10" fill="#663399"/>
     <rect x="451.03" y="55" width="2.52" height="10" fill="#89e051"/>
-    <rect x="453.05" y="55" width="2.45" height="10" fill="#336790"/>
+    <rect x="453.06" y="55" width="2.44" height="10" fill="#336790"/>
   </g>
-  <g class="fade" style="animation-delay:0.10s"><circle cx="30" cy="88" r="5" fill="#3178c6"/><text x="42" y="92" class="small">TypeScript 64.6%</text></g>
-  <g class="fade" style="animation-delay:0.18s"><circle cx="245" cy="88" r="5" fill="#f1e05a"/><text x="257" y="92" class="small">JavaScript 21.8%</text></g>
+  <g class="fade" style="animation-delay:0.10s"><circle cx="30" cy="88" r="5" fill="#3178c6"/><text x="42" y="92" class="small">TypeScript 64.5%</text></g>
+  <g class="fade" style="animation-delay:0.18s"><circle cx="245" cy="88" r="5" fill="#f1e05a"/><text x="257" y="92" class="small">JavaScript 21.9%</text></g>
   <g class="fade" style="animation-delay:0.26s"><circle cx="30" cy="114" r="5" fill="#00B4AB"/><text x="42" y="118" class="small">Dart 6.3%</text></g>
   <g class="fade" style="animation-delay:0.34s"><circle cx="245" cy="114" r="5" fill="#3572A5"/><text x="257" y="118" class="small">Python 4.9%</text></g>
   <g class="fade" style="animation-delay:0.42s"><circle cx="30" cy="140" r="5" fill="#b07219"/><text x="42" y="144" class="small">Java 0.8%</text></g>
