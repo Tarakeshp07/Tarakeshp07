@@ -14,13 +14,13 @@
   <text x="25" y="38" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="25" y="55" width="430.0" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="25.00" y="55" width="277.82" height="10" fill="#3178c6"/>
-    <rect x="302.32" y="55" width="94.62" height="10" fill="#f1e05a"/>
-    <rect x="396.44" y="55" width="27.50" height="10" fill="#00B4AB"/>
-    <rect x="423.44" y="55" width="21.39" height="10" fill="#3572A5"/>
+    <rect x="25.00" y="55" width="277.75" height="10" fill="#3178c6"/>
+    <rect x="302.25" y="55" width="94.70" height="10" fill="#f1e05a"/>
+    <rect x="396.45" y="55" width="27.49" height="10" fill="#00B4AB"/>
+    <rect x="423.45" y="55" width="21.38" height="10" fill="#3572A5"/>
     <rect x="444.33" y="55" width="4.13" height="10" fill="#b07219"/>
     <rect x="447.96" y="55" width="3.57" height="10" fill="#663399"/>
-    <rect x="451.03" y="55" width="2.52" height="10" fill="#89e051"/>
+    <rect x="451.04" y="55" width="2.52" height="10" fill="#89e051"/>
     <rect x="453.06" y="55" width="2.44" height="10" fill="#336790"/>
   </g>
   <g class="fade" style="animation-delay:0.10s"><circle cx="30" cy="88" r="5" fill="#3178c6"/><text x="42" y="92" class="small">TypeScript 64.5%</text></g>
